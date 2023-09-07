@@ -1,0 +1,18 @@
+
+
+java:S1319"mThe type of "danhSachNguoi" should be an interface such as "List" rather than the implementation "ArrayList".(ü‚Ì¿şÿÿÿÿ8äÇõ·¤1
+X
+java:S1141˜"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8æÇõ·¤1
+B
+java:S1700" Rename field "danhSachKhachHang"(Ã¹ïáùÿÿÿÿ8êÇõ·¤1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¶–Î§şÿÿÿÿ8ëÇõ·¤1
+L	java:S106#"+Replace this use of System.out by a logger.(Èç¸¥şÿÿÿÿ8’Èõ·¤1
+G	java:S106+"+Replace this use of System.out by a logger.(¶·¨º8–Èõ·¤1
+L	java:S106/"+Replace this use of System.out by a logger.(®ıç¢ûÿÿÿÿ8—Èõ·¤1
+X	java:S1254"<This block of commented-out lines of code should be removed.(œ‹òæ8›Èõ·¤1
+]	java:S125U"<This block of commented-out lines of code should be removed.(Ó‚‡Ûşÿÿÿÿ8ŸÈõ·¤1
+G	java:S106g"+Replace this use of System.out by a logger.(¿¤›8¨Èõ·¤1
+c
+java:S2147ª"ECombine this catch with the one at line 168, which has the same body.(Ãôş•8äÈõ·¤1
+H	java:S106¢"+Replace this use of System.out by a logger.(‰¡Ğİ8õÈõ·¤1
+H	java:S106¥"+Replace this use of System.out by a logger.(‰¡Ğİ8öÈõ·¤1

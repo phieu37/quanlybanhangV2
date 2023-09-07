@@ -1,0 +1,2 @@
+ma=kh1, ten=kh, soDienThoai=0987654321, email=kh@abc.com, diaChi=vn
+ma=kh2, ten=hieu, soDienThoai=1234567890, email=hi@abc.com, diaChi=tq

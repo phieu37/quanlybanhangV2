@@ -1,0 +1,6 @@
+maSanPham=sp1, tenSanPham=sp1, soLuong=10, donGia=2.0
+maSanPham=sp2, tenSanPham=sp2, soLuong=20, donGia=3.0
+maSanPham=sp3, tenSanPham=sp3, soLuong=1, donGia=2.0
+maSanPham=sp4, tenSanPham=sp4, soLuong=2, donGia=3.0
+maSanPham=sp5, tenSanPham=sp5, soLuong=101, donGia=2.0
+maSanPham=sp6, tenSanPham=sp6, soLuong=200, donGia=3.0

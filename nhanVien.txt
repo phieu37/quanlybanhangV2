@@ -1,0 +1,3 @@
+ma=admin, ten=admin, soDienThoai=1234567890, email=admin@abc.com, diaChi=vn, matKhau=admin, gioiTinh=Nam, nhom=it, trangThai=ok
+ma=nv1, ten=nvpo, soDienThoai=0987654321, email=h@abc.com, diaChi=tq, matKhau=123, gioiTinh=nu, nhom=ok, trangThai=ok
+ma=nv10, ten=nv, soDienThoai=1234567890, email=vn10@abc.com, diaChi=tq, matKhau=202cb962ac59075b964b07152d234b70, gioiTinh=nu, nhom=ok, trangThai=ok

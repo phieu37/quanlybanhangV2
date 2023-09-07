@@ -1,0 +1,4 @@
+maKhachHang=kh1, maNhanVien=admin, maSanPham=sp1, soLuongMua=2, donGia=2.0, thanhTien=4.0, ngayBan=2023-09-03T22:24:46.031796600
+maKhachHang=kh1, maNhanVien=admin, maSanPham=sp2, soLuongMua=8, donGia=3.0, thanhTien=24.0, ngayBan=2023-09-04T11:25:00.542159300
+maKhachHang=kh1, maNhanVien=nv1, maSanPham=sp1, soLuongMua=2, donGia=2.0, thanhTien=2.0, ngayBan=2023-09-03T22:30:46.031796600
+maKhachHang=kh1, maNhanVien=nv1, maSanPham=sp2, soLuongMua=8, donGia=3.0, thanhTien=24.0, ngayBan=2023-09-04T11:34:00.542159300

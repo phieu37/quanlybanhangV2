@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="quanlybanhangV2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/quanlybanhangV2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
